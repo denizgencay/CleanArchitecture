@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="creating_notes">Creating notes</string>
+    <string name="complete_action">Complete action</string>
+    <string name="delete_note">Delete note</string>
+    <string name="are_you_sure">Are you sure to delete this note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="word">Word:</string>
+    <string name="last_updated">Last updated</string>
+</resources>
